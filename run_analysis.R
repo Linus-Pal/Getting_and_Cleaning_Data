@@ -94,4 +94,7 @@ TidyData <- tbl_df(read.table(file.path(filesPath, "TidyData.txt")))
 head(TidyData, n=4)
 tail(TidyData, n=4)
 str(TidyData)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0c191b56f1ffcf5909884314d3e795792af869ef
